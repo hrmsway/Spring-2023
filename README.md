@@ -53,7 +53,7 @@
 
 - SE323 (Software Architecture):
 
-  **Classroom Code :** `qee7zea`
+  **Google Classroom Code :** `qee7zea`
   > *Access using personal email.*
 
 - SE422 (MIS):
