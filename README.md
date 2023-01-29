@@ -1,6 +1,5 @@
 # Spring-2023 🌺
 
-
 ## ✨ **Group / Channels (A):**
 
 ---
@@ -11,7 +10,7 @@
 
 - SE322 (Web Application Lab):
 
-  *Same as SE321*
+  _Same as SE321_
 
 - SE333 (AI):
 
@@ -19,7 +18,7 @@
 
 - SE334 (AI Lab):
 
-  *Same as SE333*
+  _Same as SE333_
 
 - SE323 (Software Architecture):
 
@@ -33,15 +32,21 @@
 
   **WhatsApp :** <https://chat.whatsapp.com/J2bUqtgjmXTLuv8LVcBUMl>
 
-
-
 ## 📖 **BLC / Classroom (A):**
 
 ---
 
 - SE321 (Web Application):
 
+  <https://elearn.daffodilvarsity.edu.bd/course/view.php?id=20081>
+
+  **Key :** `SE322SFRSpring23`
+
 - SE322 (Web Application Lab):
+
+  <https://elearn.daffodilvarsity.edu.bd/course/view.php?id=20082>
+
+  **Key :** `SE321SFRSpring23`
 
 - SE333 (AI):
 
@@ -54,19 +59,19 @@
 - SE323 (Software Architecture):
 
   **Google Classroom Code :** `qee7zea`
-  > *Access using personal email.*
+
+  > _Access using personal email._
 
 - SE422 (MIS):
 
   <https://elearn.daffodilvarsity.edu.bd/course/view.php?id=20041>
-  
+
   **Key :** `se442`
 
 - SE441 (Ethics):
 
-
 ## ✳️ **INFORMATION:**
 
-___
+---
 
 **Access folders correlating to section and course code for documents and resources.**
