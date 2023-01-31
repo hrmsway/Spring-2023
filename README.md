@@ -24,7 +24,7 @@
 
   **Telegram :** <https://t.me/+gyKMLvsSosIzNjBl>
 
-- SE422 (MIS):
+- SE442 (MIS):
 
   **WhatsApp :** <https://chat.whatsapp.com/J7m7iguQGgZE5RoGheZfMx>
 
@@ -62,7 +62,7 @@
 
   > _Access using personal email._
 
-- SE422 (MIS):
+- SE442 (MIS):
 
   <https://elearn.daffodilvarsity.edu.bd/course/view.php?id=20041>
 
