@@ -39,7 +39,7 @@
 
 - SE334 (AI Lab):
 
-  _Same as SE333_
+  **WhatsApp :** <https://chat.whatsapp.com/JCxomwLUmni4yNRkKo6T9b>
 
 - SE323 (Software Architecture):
 
@@ -76,6 +76,10 @@
   `No key required`
 
 - SE334 (AI Lab):
+
+  <https://elearn.daffodilvarsity.edu.bd/course/view.php?id=20115>
+
+  `No key required`
 
 - SE323 (Software Architecture):
 
