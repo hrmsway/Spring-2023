@@ -83,6 +83,10 @@
 
 - SE323 (Software Architecture):
 
+  <https://elearn.daffodilvarsity.edu.bd/course/view.php?id=20793>
+
+  **Key :** `swe323`
+
   **Google Classroom Code :** `qee7zea`
 
   > _Access using personal email._
